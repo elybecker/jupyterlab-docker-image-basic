@@ -1,4 +1,4 @@
-# docker-jupyterlab-template
+# jupyterlab-docker-image-basic
 
 a basic Docker stepup for running python on a jupyter server. 
 
